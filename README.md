@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Engineering student from UTM</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
 
-- 😄 I am a first-year Bachelor of Computer Science (Data Engineering) student
+- 😄 I am a third-year Bachelor of Computer Science (Data Engineering) student
  
 - 🔭 I was born in Selayang, Selangor.
 
