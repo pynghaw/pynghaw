@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data Engineering student from UTM</h3>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+There!;Welcome+to+my+GitHub+Profile;Passionate+about+Data+and+AI!" />
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
 
 - 🎓 A third-year Computer Science (Data Engineering) student at UTM  
 - 📍 Born and raised in Selayang, Selangor, Malaysia
@@ -13,11 +13,11 @@
 
 <h3 align="left">🛠️ Recent Projects</h3>
 
-- ✏️ <a href= "https://github.com/pynghaw/digit-recognizer">**Handwritten Digit Recognizer** (TensorFlow.js + React)  </a>
+- ✏️ <a href= "https://github.com/pynghaw/digit-recognizer">**Handwritten Digit Recognizer** (TensorFlow.js + React)</a><br>
   A web-based digit recognition app powered by a trained TensorFlow CNN model, running entirely in-browser via TensorFlow.js and deployed with a clean React interface.  
   🔗 [Try it here](https://digit-recognizer-eta.vercel.app/)
 
-- 📊 <a href= " https://github.com/pynghaw/Simple-Filterable-Table">**SimpleFilterableTable** (Next.js + FastAPI)  </a>
+- 📊 <a href= "https://github.com/pynghaw/Simple-Filterable-Table">**SimpleFilterableTable** (Next.js + FastAPI)</a><br>
   A simple full-stack web app that displays filterable table data with server-side processing. The frontend is built using Next.js while the backend is powered by FastAPI.
 
 
