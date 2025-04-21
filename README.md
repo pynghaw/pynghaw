@@ -5,8 +5,8 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
 
-- 🎓 A third-year Computer Science (Data Engineering) student at UTM  
-- 📍 Born and raised in Selayang, Selangor, Malaysia
+- 🎓 A third-year Computer Science (Data Engineering) student at UTM  (Graduation on 2026)
+- 📍 Born and raised in Selangor, Malaysia
 - 🌱 Currently diving into **Web development** to build my personal portfolio site.
 - ⚡ Fun fact: I debug better than I joke 😅
 - 📫 How to reach me: **pynghaw5@gmail.com**
