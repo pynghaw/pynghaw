@@ -7,7 +7,7 @@
 
 - 🎓 A third-year Computer Science (Data Engineering) student at Universiti Technology Malaysia - Graduation on 2026
 - 📍 Born and raised in Selangor, Malaysia
-- 🌱 Currently diving into **Web development** to build my personal portfolio site.
+- 🌱 Currently diving into **Web development** to build my personal portfolio site
 - ⚡ Fun fact: I debug better than I joke 😅
 - 📫 How to reach me: **pynghaw5@gmail.com**
 
