@@ -15,13 +15,13 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
 
-- 🎓 A third-year Computer Science (Data Engineering) student at Universiti Technology Malaysia - Graduation on 2026
+- 🎓 A third-year Computer Science (Data Engineering) student at Universiti Teknologi Malaysia - Graduation on October2026
 - 📍 Born and raised in Selangor, Malaysia
 - 🌱 Currently diving into **Web development** to build my personal portfolio site
 - ⚡ Fun fact: I debug better than I joke 😅
 - 📫 How to reach me: **pynghaw5@gmail.com**
 
-<h3 align="left">🛠⭐ Recent Projects</h3>
+<h2 align="left">⭐ Recent Projects</h2>
 - ✏️ <a href= "https://github.com/pynghaw/digit-recognizer">**Handwritten Digit Recognizer** (TensorFlow.js + React)</a><br>
   A web-based digit recognition app powered by a trained TensorFlow CNN model, running entirely in-browser via TensorFlow.js and deployed with a clean React interface.  
   🔗 [Try it here](https://digit-recognizer-eta.vercel.app/)
@@ -31,7 +31,7 @@
 
 ###
 
-<h3 align="left">💻 Language</h3>
+<h2 align="left">💻 Language</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -62,7 +62,7 @@
 
 ###
 
-<h3 align="left">🛠️ Framework and tools</h3>
+<h2 align="left">🛠️ Framework and tools</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
