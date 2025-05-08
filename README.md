@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Chen Pyng Haw</h1>
 <h3 align="center">A passionate Data Engineering student from UTM</h3>
 
@@ -15,19 +14,38 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
 
-- 🎓 A third-year Computer Science (Data Engineering) student at Universiti Teknologi Malaysia - Graduation on October2026
-- 📍 Born and raised in Selangor, Malaysia
-- 🌱 Currently diving into **Web development** to build my personal portfolio site
-- ⚡ Fun fact: I debug better than I joke 😅
-- 📫 How to reach me: **pynghaw5@gmail.com**
+<ul>
+  <li>
+    🎓 <strong>Third-year Computer Science (Data Engineering) student</strong> at Universiti Teknologi Malaysia<br>
+    🗓️ Graduating in <strong>October 2026</strong>
+  </li>
+  <li>
+    📍 <strong>Born and raised in Selangor, Malaysia</strong>
+  </li>
+  <li>
+    🌱 <strong>Currently exploring Web Development</strong> to build my personal portfolio site
+  </li>
+  <li>
+    ⚡ <em>Fun fact:</em> I debug better than I joke 😅
+  </li>
+  <li>
+    📫 <strong>Contact me:</strong> pynghaw5@gmail.com
+  </li>
+</ul>
+
 
 <h2 align="left">⭐ Recent Projects</h2>
-- ✏️ <a href= "https://github.com/pynghaw/digit-recognizer">**Handwritten Digit Recognizer** (TensorFlow.js + React)</a><br>
-  A web-based digit recognition app powered by a trained TensorFlow CNN model, running entirely in-browser via TensorFlow.js and deployed with a clean React interface.<br>  
-  🔗 [Try it here](https://digit-recognizer-eta.vercel.app/)
-
-- 📊 <a href= "https://github.com/pynghaw/Simple-Filterable-Table">**SimpleFilterableTable** (Next.js + FastAPI)</a><br>
-  A simple full-stack web app that displays filterable table data with server-side processing. The frontend is built using Next.js while the backend is powered by FastAPI.
+<div>
+  <ul>
+    <li>✏️ <a href="https://github.com/pynghaw/digit-recognizer"><strong>Handwritten Digit Recognizer</strong> (TensorFlow.js + React)</a>
+      <p>A web-based digit recognition app powered by a trained TensorFlow CNN model, running entirely in-browser via TensorFlow.js and deployed with a clean React interface.</p>
+      <p>🔗 <a href="https://digit-recognizer-eta.vercel.app/">Try it here</a></p>
+    </li>    
+    <li>📊 <a href="https://github.com/pynghaw/Simple-Filterable-Table"><strong>SimpleFilterableTable</strong> (Next.js + FastAPI)</a>
+      <p>A simple full-stack web app that displays filterable table data with server-side processing. The frontend is built using Next.js while the backend is powered by FastAPI.</p>
+    </li>  
+  </ul>
+</div>
 
 ###
 
