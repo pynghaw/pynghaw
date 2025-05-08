@@ -23,7 +23,7 @@
 
 <h2 align="left">⭐ Recent Projects</h2>
 - ✏️ <a href= "https://github.com/pynghaw/digit-recognizer">**Handwritten Digit Recognizer** (TensorFlow.js + React)</a><br>
-  A web-based digit recognition app powered by a trained TensorFlow CNN model, running entirely in-browser via TensorFlow.js and deployed with a clean React interface.  
+  A web-based digit recognition app powered by a trained TensorFlow CNN model, running entirely in-browser via TensorFlow.js and deployed with a clean React interface.<br>  
   🔗 [Try it here](https://digit-recognizer-eta.vercel.app/)
 
 - 📊 <a href= "https://github.com/pynghaw/Simple-Filterable-Table">**SimpleFilterableTable** (Next.js + FastAPI)</a><br>
