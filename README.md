@@ -14,7 +14,7 @@
 
 ###
 
-<table>
+<table border="0">
   <tr>
     <td>
       <ul>
@@ -53,21 +53,6 @@
     <p>A simple full-stack web app that displays filterable table data with server-side processing. The frontend is built using Next.js while the backend is powered by FastAPI.</p>
   </li>  
 </ul>
-
-###
-
-<h2 align="left">⭐ Recent Projects</h2>
-<div>
-  <ul>
-    <li>✏️ <a href="https://github.com/pynghaw/digit-recognizer"><strong>Handwritten Digit Recognizer</strong> (TensorFlow.js + React)</a>
-      <p>A web-based digit recognition app powered by a trained TensorFlow CNN model, running entirely in-browser via TensorFlow.js and deployed with a clean React interface.</p>
-      <p>🔗 <a href="https://digit-recognizer-eta.vercel.app/">Try it here</a></p>
-    </li>    
-    <li>📊 <a href="https://github.com/pynghaw/Simple-Filterable-Table"><strong>SimpleFilterableTable</strong> (Next.js + FastAPI)</a>
-      <p>A simple full-stack web app that displays filterable table data with server-side processing. The frontend is built using Next.js while the backend is powered by FastAPI.</p>
-    </li>  
-  </ul>
-</div>
 
 ###
 
