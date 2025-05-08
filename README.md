@@ -12,27 +12,49 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+There!;Welcome+to+my+GitHub+Profile!;Passionate+about+Data+and+AI!" />
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
+###
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>
+          🎓 <strong>Third-year Computer Science (Data Engineering) student</strong> at Universiti Teknologi Malaysia<br>
+          🗓️ Graduating in <strong>October 2026</strong>
+        </li>
+        <li>
+          📍 <strong>Born and raised in Selangor, Malaysia</strong>
+        </li>
+        <li>
+          🌱 <strong>Currently exploring Web Development</strong> to build my personal portfolio site
+        </li>
+        <li>
+          ⚡ <em>Fun fact:</em> I debug better than I joke 😅
+        </li>
+        <li>
+          📫 <strong>Contact me:</strong> pynghaw5@gmail.com
+        </li>
+      </ul>
+    </td>
+    <td>
+      <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
+    </td>
+  </tr>
+</table>
+
+<h2 align="left">⭐ Recent Projects</h2>
 
 <ul>
-  <li>
-    🎓 <strong>Third-year Computer Science (Data Engineering) student</strong> at Universiti Teknologi Malaysia<br>
-    🗓️ Graduating in <strong>October 2026</strong>
-  </li>
-  <li>
-    📍 <strong>Born and raised in Selangor, Malaysia</strong>
-  </li>
-  <li>
-    🌱 <strong>Currently exploring Web Development</strong> to build my personal portfolio site
-  </li>
-  <li>
-    ⚡ <em>Fun fact:</em> I debug better than I joke 😅
-  </li>
-  <li>
-    📫 <strong>Contact me:</strong> pynghaw5@gmail.com
-  </li>
+  <li>✏️ <a href="https://github.com/pynghaw/digit-recognizer"><strong>Handwritten Digit Recognizer</strong> (TensorFlow.js + React)</a>
+    <p>A web-based digit recognition app powered by a trained TensorFlow CNN model, running entirely in-browser via TensorFlow.js and deployed with a clean React interface.</p>
+    <p>🔗 <a href="https://digit-recognizer-eta.vercel.app/">Try it here!</a></p>
+  </li>    
+  <li>📊 <a href="https://github.com/pynghaw/Simple-Filterable-Table"><strong>SimpleFilterableTable</strong> (Next.js + FastAPI)</a>
+    <p>A simple full-stack web app that displays filterable table data with server-side processing. The frontend is built using Next.js while the backend is powered by FastAPI.</p>
+  </li>  
 </ul>
 
+###
 
 <h2 align="left">⭐ Recent Projects</h2>
 <div>
