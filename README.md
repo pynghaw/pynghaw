@@ -48,7 +48,7 @@
 <p>A web-based digit recognition app powered by a trained TensorFlow CNN model, running entirely in-browser via TensorFlow.js and deployed with a clean React interface.</p>
 <p>🔗 <a href="https://digit-recognizer-eta.vercel.app/">Try it here!</a></p>
 
-<h3>2. <a href="https://github.com/pynghaw/ResumeManager"><strong>Resume Manager</strong> (ASP.NET 8 MVC with Entity Framework)</a>📊</h3>
+<h3>2. <a href="https://github.com/pynghaw/ResumeManager"><strong>Resume Manager</strong> (ASP.NET 8 MVC with Entity Framework)</a>🧑‍💼👩‍🔬</h3>
     <p>A dynamic Master-Detail CRUD application built using ASP.NET 8 MVC and Entity Framework Core. It demonstrates how to add, remove, and manage master and detail records seamlessly in a single form using modern techniques in EF Core.</p>
       
 <h3>3. <a href="https://github.com/pynghaw/Simple-Filterable-Table"><strong>Simple Filterable Table</strong> (Next.js + FastAPI)</a>📊</h3>
