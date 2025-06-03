@@ -42,6 +42,11 @@
   </tr>
 </table>
 
+<h2 align="left">💪 Ongoing Projects</h2>
+<h3><a href="https://github.com/pynghaw/Kutip"><strong>Kutip</strong> (Next.js + Supabase)</a>💻🗑️</h3>
+<p>Kutip is a smart waste management system designed to improve the efficiency, visibility, and accountability of urban bin collection operations. It combines real-time bin tracking, IoT-driven data collection, and an admin dashboard to optimize waste collection routes and ensure timely pickups.</p>
+
+
 <h2 align="left">⭐ Recent Projects</h2>
 
 <h3>1. <a href="https://github.com/pynghaw/digit-recognizer"><strong>Handwritten Digit Recognizer</strong> (TensorFlow.js + React)</a>✏️🔢</h3>
