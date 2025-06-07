@@ -29,7 +29,7 @@
           🌱 <strong>Currently exploring Web Development</strong> to build my personal portfolio site
         </li>
         <li>
-          ⚡ <em>Fun fact:</em> I debug better than I joke 😅
+          ⚡ <em>Fun fact:</em> I debug better than I joke
         </li>
         <li>
           📫 <strong>Contact me:</strong> pynghaw5@gmail.com
