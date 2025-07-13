@@ -43,21 +43,24 @@
 </table>
 
 <h2 align="left">💪 Ongoing Projects</h2>
-<h3><a href="https://github.com/pynghaw/Kutip"><strong>Kutip</strong> (Next.js + Supabase)</a>💻🗑️</h3>
-<p>Kutip is a smart waste management system designed to improve the efficiency, visibility, and accountability of urban bin collection operations. It combines real-time bin tracking, IoT-driven data collection, and an admin dashboard to optimize waste collection routes and ensure timely pickups.</p>
-
+<h3>1. <a href="https://github.com/pynghaw/Portfolio-Website"><strong>Portfolio Website</strong> (Next.js + Tailwind CSS)</a>💻🗑️</h3>
+<p>This is a modern and responsive portfolio website built using Next.js and Tailwind CSS. It showcases who I am, highlights my skills, and features my latest projects.</p>
 
 <h2 align="left">⭐ Recent Projects</h2>
+<h3>1. <a href="https://github.com/pynghaw/Kutip"><strong>Kutip</strong> (Next.js + Supabase)</a>💻🗑️</h3>
+<p>Kutip is a smart waste management system designed to improve the efficiency, visibility, and accountability of urban bin collection operations. It combines real-time bin tracking, IoT-driven data collection, and an admin dashboard to optimize waste collection routes and ensure timely pickups.</p>
 
-<h3>1. <a href="https://github.com/pynghaw/digit-recognizer"><strong>Handwritten Digit Recognizer</strong> (TensorFlow.js + React)</a>✏️🔢</h3>
+<h3>2. <a href="https://github.com/pynghaw/RedditSentimentAnalysis"><strong>Real-Time Reddit Comment Sentiment Analysis System (with LSTM)</strong></a></h3>
+<p>This project sets up a real-time sentiment analysis pipeline for Reddit comments using a Keras LSTM model. The backend uses Apache Kafka, Apache Spark, Elasticsearch, and Kibana, all orchestrated with Docker Compose.</p>
+
+<h3>3. <a href="https://github.com/pynghaw/digit-recognizer"><strong>Handwritten Digit Recognizer</strong> (TensorFlow.js + React)</a>✏️🔢</h3>
 <p>A web-based digit recognition app powered by a trained TensorFlow CNN model, running entirely in-browser via TensorFlow.js and deployed with a clean React interface.</p>
 <p>🔗 <a href="https://digit-recognizer-eta.vercel.app/">Try it here!</a></p>
 
-<h3>2. <a href="https://github.com/pynghaw/ResumeManager"><strong>Resume Manager</strong> (ASP.NET 8 MVC with Entity Framework)</a>🧑‍💼👩‍🔬</h3>
+<h3>4. <a href="https://github.com/pynghaw/ResumeManager"><strong>Resume Manager</strong> (ASP.NET 8 MVC with Entity Framework)</a>🧑‍💼👩‍🔬</h3>
     <p>A dynamic Master-Detail CRUD application built using ASP.NET 8 MVC and Entity Framework Core. It demonstrates how to add, remove, and manage master and detail records seamlessly in a single form using modern techniques in EF Core.</p>
       
-<h3>3. <a href="https://github.com/pynghaw/Simple-Filterable-Table"><strong>Simple Filterable Table</strong> (Next.js + FastAPI)</a>📊</h3>
-    <p>A simple full-stack web app that displays filterable table data with server-side processing. The frontend is built using Next.js while the backend is powered by FastAPI.</p>
+
 
 ###
 
