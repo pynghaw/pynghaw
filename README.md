@@ -43,7 +43,7 @@
 </table>
 
 <h2 align="left">💪 Ongoing Projects</h2>
-<h3>1. <a href="https://github.com/pynghaw/Portfolio-Website"><strong>Portfolio Website</strong> (Next.js + Tailwind CSS)</a>💻🗑️</h3>
+<h3>1. <a href="https://github.com/pynghaw/Portfolio-Website"><strong>Portfolio Website</strong> (Next.js + Tailwind CSS)</a></h3>
 <p>This is a modern and responsive portfolio website built using Next.js and Tailwind CSS. It showcases who I am, highlights my skills, and features my latest projects.</p>
 
 <h2 align="left">⭐ Recent Projects</h2>
