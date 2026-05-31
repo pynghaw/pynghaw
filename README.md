@@ -19,7 +19,7 @@
     <td>
       <ul>
         <li>
-          🎓 <strong>Third-year Computer Science (Data Engineering) student</strong> at Universiti Teknologi Malaysia<br>
+          🎓 <strong>Final-year Computer Science (Data Engineering) student</strong> at Universiti Teknologi Malaysia<br>
           🗓️ Graduating in <strong>October 2026</strong>
         </li>
         <li>
